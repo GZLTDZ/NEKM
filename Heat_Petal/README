@@ -5,4 +5,4 @@ heatEqCN.ipynb: Solving heat equations with NEKM combined with CN scheme by usin
 Remark:
 1. If there are both '.ipynb' and '.py' files in a folder, the author trained using '.py' files, and the output of the training process is recorded in an '.out' file.
 2. There may be some error in the expression of the markdown part of the code, because it may be directly copied from other files of the author, please understand, and the actual effect of the code shall prevail.
-3. The code and datasets used for generating the training data are omitted because they rely on the kernel-free boundary method, which is proprietary and not open source.
+3. The code and datasets used for generating the training data for './GreenNet' are omitted because they rely on the kernel-free boundary method, which is proprietary and not open source.
